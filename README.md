@@ -22,23 +22,24 @@ Here’s how you can get up and running with PomodoroApp:
    git clone https://github.com/nlibenn/PomodoroApp.git
 
 
-Navigate into the Project Directory:
+2. **Navigate into the Project Directory:**
 
-sh
-Copy code
-cd PomodoroApp
-Install Dependencies:
+     ```sh
+     cd PomodoroApp
+
+3. **Install Dependencies:** 
 
 Make sure you have Node.js installed. Then, run:
 
-sh
-Copy code
-npm install
-Start the Development Server:
+   ```sh
+      npm install
 
-sh
-Copy code
-npm start
+4. **Start the Development Server:** 
+
+  ```sh
+   Copy code
+   npm start
+
 Open your browser and head to http://localhost:3000 to start using the app!
 
 📅 How to Use
