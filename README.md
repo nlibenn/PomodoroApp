@@ -31,12 +31,12 @@ Here’s how you can get up and running with PomodoroApp:
 
 Make sure you have Node.js installed. Then, run:
 
-   ```sh
+      ```sh
       npm install
 
 4. **Start the Development Server:** 
 
-  ```sh
+   ```sh
    Copy code
    npm start
 
