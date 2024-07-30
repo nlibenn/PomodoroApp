@@ -52,8 +52,5 @@ I’ve aimed for a clean and intuitive design that enhances your productivity wi
 💡 Contributing
 I’m excited about this project and always open to suggestions or contributions. If you have ideas for new features or improvements, feel free to open an issue or submit a pull request. Check out the CONTRIBUTING.md for more details.
 
-📝 License
-This project is open-source and licensed under the MIT License. Feel free to use, modify, and share!
-
 🤝 Support
 If you have any questions or run into issues, you can reach out via GitHub Issues or email.
