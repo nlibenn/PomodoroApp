@@ -1,21 +1,27 @@
-PomodoroApp
-🌟 About This Project
+# PomodoroApp
+
+🌟 **About This Project**
+
 Hey there! Welcome to PomodoroApp, a project I’ve been working on to help you (and me) stay focused and productive. Inspired by the Pomodoro Technique, this app is designed to break work into manageable chunks and help you stay on top of your tasks. It’s a personal project that reflects my passion for productivity and time management.
 
-🚀 Features
-Customizable Timers: Set your own work and break intervals to match your workflow.
-Task Management: Add and keep track of tasks to stay organized.
-Friendly Reminders: Get notifications to help you stay on schedule.
-Productivity Stats: View how many Pomodoro sessions you've completed and track your progress.
-Simple and Elegant Design: Enjoy an easy-to-use interface that makes managing your time a breeze.
-🛠 Getting Started
+🚀 **Features**
+
+- **Customizable Timers:** Set your own work and break intervals to match your workflow.
+- **Task Management:** Add and keep track of tasks to stay organized.
+- **Friendly Reminders:** Get notifications to help you stay on schedule.
+- **Productivity Stats:** View how many Pomodoro sessions you've completed and track your progress.
+- **Simple and Elegant Design:** Enjoy an easy-to-use interface that makes managing your time a breeze.
+
+🛠 **Getting Started**
+
 Here’s how you can get up and running with PomodoroApp:
 
-Clone the Repository:
+1. **Clone the Repository:**
 
-sh
-Copy code
-git clone https://github.com/nlibenn/PomodoroApp.git
+   ```sh
+   git clone https://github.com/nlibenn/PomodoroApp.git
+
+
 Navigate into the Project Directory:
 
 sh
