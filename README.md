@@ -37,7 +37,6 @@ Make sure you have Node.js installed. Then, run:
 4. **Start the Development Server:** 
 
    ```sh
-   Copy code
    npm start
 
 Open your browser and head to http://localhost:3000 to start using the app!
